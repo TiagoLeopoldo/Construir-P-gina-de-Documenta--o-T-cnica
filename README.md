@@ -17,4 +17,4 @@ O objetivo deste projeto é construir uma página funcionalmente similar à pág
 Clone este repositório para a sua máquina local utilizando:
 
 ```sh
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git https://github.com/TiagoLeopoldo/Construir-P-gina-de-Documenta--o-T-cnica
